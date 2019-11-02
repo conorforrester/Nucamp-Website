@@ -38,3 +38,13 @@ header h2 {
   position: absolute;
   right: 0;
   bottom: 0; }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white;
+  font-family: "Lobster", cursive; }
+
+#loginModal .modal-header {
+  font-family: "Lobster", cursive;
+  background-color: #901CAD;
+  color: white; }
